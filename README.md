@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [ShowLand](https://github.com/palomasoltys/showland-v2)<br>🌱 I’m currently learning DSA and React<br>💻 I'm currently doing #100DayOfCode<br>📧 How to reach me: pfs601@gmail.com
+🔭 I’m currently working on [ShowLand](https://github.com/palomasoltys/showland-v2)<br>🌱 I’m currently learning DSA and React<br>💻 I'm currently doing #100DaysOfCode<br>📧 How to reach me: pfs601@gmail.com
 
 
 ## 🌐 Socials:
