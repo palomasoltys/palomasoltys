@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Olá, I'm Paloma!
 🔭 I’m currently working on [Bicicleta (An ecommerce)](https://github.com/palomasoltys/bicicleta) and [Paint Shop](https://github.com/paint-shop-project/PaintShop)<br>☕ I’m currently learning Java and Spring<br>📧 How to reach me: pfs601@gmail.com
 
 
