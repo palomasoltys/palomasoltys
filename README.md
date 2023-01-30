@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [ShowLand](https://github.com/palomasoltys/showland-v2)<br>🌱 I’m currently learning DSA and React<br>💻 I'm currently doing #100DaysOfCode<br>📧 How to reach me: pfs601@gmail.com
+🔭 I’m currently working on [Bicicleta (An ecommerce)](https://github.com/palomasoltys/bicicleta) and [Paint Shop](https://github.com/paint-shop-project/PaintShop)<br>☕ I’m currently learning Java and Spring<br>📧 How to reach me: pfs601@gmail.com
 
 
 ## 🌐 Socials:
